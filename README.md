@@ -2,7 +2,6 @@
 In this task, we should build a model to predict the percentage scored by a student based on their studying hours.<br>
 Import the required libraries. 
 Retrieve the data and analyse it to prepare for further steps.<br>
-<img src="../Screenshot(16).png">
 Split the data into training and testing sets.<br>
 Since the data has only 2 variables, we can use linear regression to build our model.
 After building the model, train it with training data set.
