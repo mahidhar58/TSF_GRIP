@@ -1,5 +1,5 @@
 # Prediction using unsupervised learning ML<br>
-In this task, we need to find the optimal number of clusters.<br>
+In this task, we need to find the optimal number of clusters and cluster the data.<br>
 Here, we have used the 'Elbow method' to determine the optimal number of clusters.<br>
 Import the required libraries. Retrieve the data and prepare it for the data training.<br>
 Train the clustering model using any algorithm of your choice. k-means clustering algorithm is used in this code.<br>
